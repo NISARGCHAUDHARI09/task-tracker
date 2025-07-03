@@ -33,5 +33,5 @@ https://poetic-fairy-4111dc.netlify.app/
 ---
 
 ## 📸 Screenshots
-https://github.com/NISARGCHAUDHARI09/task-tracker/blob/main/task-tracker-login.png
+task-tracker-login.png
 dashboard.png
